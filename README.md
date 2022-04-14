@@ -10,7 +10,6 @@ class About extends Me
 {
 
     constructor() {
-        super();
         this.characteristics = {
             name: 'Sebastian Müller',
             nationalities: ['de_DE'],
