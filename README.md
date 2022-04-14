@@ -14,7 +14,7 @@ class About extends Me
             name: 'Sebastian Müller',
             nationalities: ['de_DE'],
             birthday: '1995-04-16T07:22:00+00:00',
-            location: 'Seligenstadt, Germany'
+            location: 'Seligenstadt, Germany',
             companies: [
                 {
                     name: 'STEINBERGER Innovation UG',
