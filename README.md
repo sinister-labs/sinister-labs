@@ -28,7 +28,7 @@ class About extends Me
         }
     }
 
-    public function getSkills() {
+    function getSkills() {
         return {
             languages: ['javascript', 'php', 'html', 'css', 'scss', 'sql', 'bash'], 
             frontend: ['reactjs', 'react-native', 'angular', 'vue', 'svelte', 'antdesign'], 
@@ -41,7 +41,7 @@ class About extends Me
         };
     }
 
-    public function sayHello(){
+    function sayHello(){
         return 'Thank you for your interest in my profile! For questions or suggestions I am always available.';
     }
 
