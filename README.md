@@ -32,10 +32,10 @@ class About extends Me
         return {
             languages: ['javascript', 'php', 'html', 'css', 'scss', 'sql', 'bash'], 
             frontend: ['reactjs', 'react-native', 'angular', 'vue', 'svelte', 'antdesign'], 
-            backend: ['nodejs', 'express']
-            toolset: ['git', ''], 
+            backend: ['nodejs', 'express'],
+            toolset: ['git'], 
             devops: ['docker', 'gitlab-ci'],
-            os: ['osx', 'ubuntu', 'centos', 'debian', 'windows'] 
+            os: ['osx', 'ubuntu', 'centos', 'debian', 'windows'],
             webservers: ['nginx', 'apache'],
             databases: ['postgresql', 'elasticsearch', 'mysql', 'mongodb'], 
         };
