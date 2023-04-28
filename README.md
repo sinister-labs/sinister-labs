@@ -67,10 +67,10 @@ _about.sayHello();
 
 ## 🏆 Github Statistics
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sinister-lab&layout=compact&theme=dracula)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sinister-labs&layout=compact&theme=dracula)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sinister-lab&show_icons=true&theme=dracula)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sinister-labs&show_icons=true&theme=dracula)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=sinister-lab&theme=dracula)
+![trophy](https://github-profile-trophy.vercel.app/?username=sinister-labs&theme=dracula)
 
 
