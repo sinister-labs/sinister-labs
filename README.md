@@ -1,7 +1,6 @@
 <h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi there, I'm Sebastian!</h1>
 
-<i>Managing Director @ STEINBERGER Innovation UG</i><br>
-<i>Chief Technology Officer @  KEEN & CAN GmbH</i>
+<i>Software Engineer @ ecovium GmbH</i><br>
 
 ## 📖 About Me
 
@@ -16,13 +15,20 @@ class About extends Me
             birthday: '1995-04-16T07:22:00+00:00',
             location: 'Seligenstadt, Germany',
             companies: [
+                 {
+                    name: 'ecovium GmbH',
+                    role: 'Software Engineer',
+                    active: true
+                },
                 {
                     name: 'STEINBERGER Innovation UG',
-                    role: 'Managing Director'
+                    role: 'Managing Director',
+                    active: false
                 },
                 {
                     name: 'KEEN & CAN GmbH',
-                    role: 'Chief Technology Officer'
+                    role: 'Chief Technology Officer',
+                    active: false
                 },
             ]
         }
