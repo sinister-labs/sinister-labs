@@ -64,13 +64,3 @@ _about.sayHello();
 [<img alt="linkedin" src="https://img.shields.io/badge/-linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sebastian-m%C3%BCller-472442105/)
 
 
-
-## 🏆 Github Statistics
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sinister-labs&layout=compact&theme=dracula)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sinister-labs&show_icons=true&theme=dracula)
-
-![trophy](https://github-profile-trophy.vercel.app/?username=sinister-labs&theme=dracula)
-
-
