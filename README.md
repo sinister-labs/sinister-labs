@@ -15,7 +15,12 @@ class About extends Me
             birthday: '1995-04-16T07:22:00+00:00',
             location: 'Seligenstadt, Germany',
             companies: [
-                 {
+                {
+                    name: 'synrlabs',
+                    role: 'Founder',
+                    active: true
+                },
+                {
                     name: 'ecovium GmbH',
                     role: 'Software Engineer',
                     active: true
