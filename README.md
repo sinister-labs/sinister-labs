@@ -1,7 +1,9 @@
 <h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi there, I'm Sebastian!</h1>
 
-<i>Founder @ synrlabs</i><br>
-<i>Software Engineer @ ecovium GmbH</i><br>
+<i>Founder @ <a href="https://synrlabs.co">synrlabs</a></i><br>
+<i>Trainer @ <a href="https://steinberger.academy/pulse-community">Pulse Community</a></i><br>
+<i>Software Engineer @ <a href="https://ecovium.com">ecovium GmbH</a></i><br>
+
 
 ## 📖 About Me
 
